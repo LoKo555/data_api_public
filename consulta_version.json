@@ -1,5 +1,8 @@
 {
 	"version_actual":"1.0",
 	"url_descarga":"",
-	"mac_autorizada":"94:FB:29:0E:7F:BB"
+	"mac_autorizadas":[
+		"94:FB:29:0E:7F:BB",
+		"94:FB:29:0E:7F:CC"
+	]
 }
